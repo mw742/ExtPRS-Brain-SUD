@@ -49,12 +49,9 @@ To run the pipeline, users must obtain authorized access to the ABCD Study® and
 
 ## Citation
 
-If you use this code, please cite:
+If you use this work, please cite:
 
-Wei, M., & Peng, Q.  
-*Externalizing Polygenic Liability, Brain Imaging Phenotypes, and Adolescent Substance Use Initiations:  
-A Multistage Association and Mediation Analysis in ABCD.*  
-
+Wei, M., & Peng, Q. (2026). *Externalizing Polygenic Liability, Brain Imaging Phenotypes, and Adolescent Substance Use Initiations: A Multistage Association and Mediation Analysis in ABCD*. bioRxiv. https://doi.org/10.64898/2026.04.08
 
 
 
